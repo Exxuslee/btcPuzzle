@@ -2,8 +2,8 @@ var Service = require('node-windows').Service;
 
 // Create a new service object
 var svc = new Service({
-  name:'puzzle2',
-  description: 'Telegram Уведомление о токах',
+  name:'btcPuzzle',
+  description: 'btc puzzle',
   script: require('path').join(__dirname, 'master.js'),
   env:{
     name: "NODE_ENV",
@@ -11,9 +11,6 @@ var svc = new Service({
   }
 });
 
-//svc.logOnAs.domain = 'mydomain.local';
-//svc.logOnAs.account = 'phdmaster';
-//svc.logOnAs.password = 'm@st3r123';
 
 // Listen for the "install" event, which indicates the
 // process is available as a service.

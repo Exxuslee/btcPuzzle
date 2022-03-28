@@ -2,8 +2,8 @@ var Service = require('node-windows').Service;
 
 // Create a new service object
 var svc = new Service({
-  name:'puzzle2',
-  script: require('path').join(__dirname,'index.js')
+  name:'btcPuzzle',
+  script: require('path').join(__dirname,'master.js')
 });
 
 // Listen for the "uninstall" event so we know when it's done.
