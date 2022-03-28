@@ -1,5 +1,0 @@
-cd..
-cd..
-cd D:\Bitcoin\puzzle2
-node uninstall
-node install
