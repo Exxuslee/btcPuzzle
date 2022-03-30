@@ -11,7 +11,7 @@
 
 **Скрипт поиска пазла биткоина №64**
 
-# Starting
+## Starting
 To view, just run:
 ```
 node master
@@ -22,5 +22,5 @@ node master
 2. Поддержка многопоточности
 3. Запуск, как служба windows
 
-### More info
+## More info
 [privatekeys.pw](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx)
