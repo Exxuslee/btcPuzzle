@@ -11,6 +11,16 @@
 
 **Скрипт поиска пазла биткоина №64**
 
-На процессоре. Поддержка многопоточности.
+# Starting
+To view, just run:
+```
+node master
+```
 
+## Features
+1. На процессоре
+2. Поддержка многопоточности
+3. Запуск, как служба windows
+
+### More info
 [privatekeys.pw](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx)
