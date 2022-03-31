@@ -1,6 +1,6 @@
 # btcPuzzle
 
-<p align="center">
+<p>
     <img alt="logo" title="Logo" src="https://github.com/Exxuslee/btcPuzzle/blob/master/btcPuzzle.png">
 </p>
 
