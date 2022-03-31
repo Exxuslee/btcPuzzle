@@ -3,14 +3,9 @@
 <p align="center">
     <img alt="logo" title="Logo" src="https://github.com/Exxuslee/btcPuzzle/blob/master/btcPuzzle.png">
 </p>
-<p>
-   <a href="">
-    <img alt="GitHub" src="https://img.shields.io/github/license/exxuslee/btcPuzzle">
-  </a>
-  <a href="">
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Exxuslee/btcPuzzle">
-  </a>
-</p>
+
+![GitHub](https://img.shields.io/github/license/exxuslee/btcPuzzle)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Exxuslee/btcPuzzle)
 
 **Скрипт поиска пазла биткоина №64**
 
@@ -29,5 +24,3 @@ node master
 
 ## More info
 [privatekeys.pw](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx)
-
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Exxuslee/btcPuzzle)
